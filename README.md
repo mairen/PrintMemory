@@ -3,6 +3,7 @@
 This is a C program that given a memory address and a length, prints out each byte in that memory in multiple formats to help understand what was stored in it.
 
 Features:
+
     * Print out values in memory in multiple formats:
         HEX, DEC, BIN, Char, and name of the char if the char is special.
     * Auto adapt to different pointer sizes, and maintain the correct output format.
@@ -17,14 +18,14 @@ Call printASCIITable() to test printMemoryMultiFormat().
 
 # Demos
 
-1. int:
+int:
 
 ![Screenshot](https://github.com/mairen/PrintMemory/blob/master/Screenshots/demo_int.png?raw=true)
 
-2. string:
+string:
 
 ![Screenshot](https://github.com/mairen/PrintMemory/blob/master/Screenshots/demo_string.png?raw=true)
 
-3. structure:
+structure:
 
 ![Screenshot](https://github.com/mairen/PrintMemory/blob/master/Screenshots/demo_structure.png?raw=true)
