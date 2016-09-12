@@ -1,6 +1,8 @@
 # PrintMemory
 
-This is a C program that given a memory address and a length, prints out each byte in that memory in multiple formats to help understand what was stored in it.
+This is a C program that given a memory address and a length, prints out each byte in that memory block in multiple formats to help understand what was stored in it.
+
+I use this to teach C programming in class. This can also be used as a debugger when we don't have access to a better one.
 
 Features:
 
