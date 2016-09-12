@@ -18,10 +18,13 @@ Call printASCIITable() to test printMemoryMultiFormat().
 # Demos
 
 1. int:
+
 ![Screenshot](https://github.com/mairen/PrintMemory/blob/master/Screenshots/demo_int.png?raw=true)
 
 2. string:
+
 ![Screenshot](https://github.com/mairen/PrintMemory/blob/master/Screenshots/demo_string.png?raw=true)
 
 3. structure:
+
 ![Screenshot](https://github.com/mairen/PrintMemory/blob/master/Screenshots/demo_structure.png?raw=true)
